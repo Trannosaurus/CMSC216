@@ -5,7 +5,7 @@ str[i] returns a boolean value where null is zero
 ## methods
 
 ### strlen
-- returns the length of the string not counting the null byte
+- returns the length of the string not counting the null bytes
 - when the string is not initialized, the elements are null characters or garbage values, so when strlen is used the length is random
 
 ### strcmp
@@ -25,3 +25,6 @@ using \n is scanf will clear spaces and \n
 *italics*
 `code`
 [link](~/)
+
+
+![image](Wallpaper.jpg)
