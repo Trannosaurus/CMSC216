@@ -1,7 +1,7 @@
 # CMSC216
 
-[Lecture Notes](/lecture)
-[Discussion Notes](/discussion)
+###[Lecture Notes](/lecture)
+###[Discussion Notes](/discussion)
 
 ## CLass Links
 - [ELMS link](https://umd.instructure.com/courses/1335801)
