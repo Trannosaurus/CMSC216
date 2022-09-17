@@ -13,5 +13,5 @@
 |-----------|-------------|
 | project 1 | sept 20, 26 |
 
-- [ ] project 1     Due sept 20 (first due date)
+- [x] project 1     Due sept 20 (first due date)
 - [ ] project 1     Due sept 26 (second due date)
