@@ -1,15 +1,3 @@
-### Solar Syste Exploration, 1950s – 1960s
-
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haleym
-
 # todo
 - [ ] one
 - [ ] two
@@ -43,5 +31,12 @@ using \n is scanf will clear spaces and \n
 `code`
 [link](~/)
 
+```c
+int main(){
+  int num = 0;
+  printf("%d", num);
+}
+
+```
 
 ![image](Wallpaper.jpg)
