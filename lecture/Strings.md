@@ -1,3 +1,9 @@
+# TODO list
+- [X] 
+- [ ] 
+- [ ] 
+- [ ] 
+
 # Strings
 
 str[i] returns a boolean value where null is zero
