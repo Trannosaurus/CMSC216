@@ -12,4 +12,7 @@ Here is a smple footnote[^1]. With some additional text after it.
 |-----------|-------------|
 | project 1 | sept 20, 26 |
 
+---
+___
+***
 [^1]: My reference.i
