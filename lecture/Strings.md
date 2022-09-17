@@ -1,5 +1,4 @@
 ### Solar Syste Exploration, 1950s – 1960s
-
 - [ ] Mercury
 - [x] Venus
 - [x] Earth (Orbit/Moon)
