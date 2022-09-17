@@ -1,4 +1,5 @@
 ### Solar Syste Exploration, 1950s – 1960s
+
 - [ ] Mercury
 - [x] Venus
 - [x] Earth (Orbit/Moon)
@@ -8,6 +9,11 @@
 - [ ] Uranus
 - [ ] Neptune
 - [ ] Comet Haleym
+
+# todo
+- [ ] one
+- [ ] two
+- [ ] three
 
 # Strings
 
