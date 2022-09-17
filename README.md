@@ -1,6 +1,7 @@
 # CMSC216
 
 [Lecture Notes](/lecture)
+[Discussion Notes](/discussion)
 
 ## CLass Links
 - [ELMS link](https://umd.instructure.com/courses/1335801)
@@ -12,3 +13,5 @@
 |-----------|-------------|
 | project 1 | sept 20, 26 |
 
+- [ ] project 1     Due sept 20 (first due date)
+- [ ] project 1     Due sept 26 (second due date)
