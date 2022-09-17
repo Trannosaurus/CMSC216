@@ -1,6 +1,6 @@
 # CMSC216
 
-Here is a smple footnote[^1]. With some additional text after it.
+Here is a smple footnote[^1]. With some additional text[^2] after it.
 
 ## CLass Links
 - [ELMS link](https://umd.instructure.com/courses/1335801)
@@ -12,4 +12,5 @@ Here is a smple footnote[^1]. With some additional text after it.
 |-----------|-------------|
 | project 1 | sept 20, 26 |
 
-[^1]: My reference.i
+[^1]: My reference 1.
+[^2]: My reference 2.
