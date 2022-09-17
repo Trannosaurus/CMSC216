@@ -9,8 +9,8 @@
 - [Pizza](https://piazza.com/class/l6y9bpb3m0u2m5/post/228)
 
 ## Upcomming Dates
-| name                              | Due Date |
-|-----------------------------------|----------|
-| <ul><li>- [x] project 1</li></ul> | sept 20  |
-| <ul><li>- [ ] project 1</li></ul> | sept 26  |
-| project 1 | sept 26  |
+| name                              | Due Date                  |
+|-----------------------------------|---------------------------|
+| <ul><li>- [x] project 1</li></ul> | sept 20 (first due date)  |
+| <ul><li>- [ ] project 1</li></ul> | sept 26 (second due date) |
+| project 1                         | sept 26 (last due date)   |
