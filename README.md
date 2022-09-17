@@ -2,6 +2,8 @@
 
 Here is a smple footnote[^1]. With some additional text[^2] after it.
 
+<a href="https://umd.instructure.com/courses/1335801" target="_blank">Test Link</a>
+
 ## CLass Links
 - <a href="https://umd.instructure.com/courses/1335801" target="_blank">ELMS Link</a>
 - [ELMS link](https://umd.instructure.com/courses/1335801)
