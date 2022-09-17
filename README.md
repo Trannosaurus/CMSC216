@@ -13,3 +13,4 @@
 |-----------------------------------|----------|
 | <ul><li>- [x] project 1</li></ul> | sept 20  |
 | <ul><li>- [ ] project 1</li></ul> | sept 26  |
+| project 1 | sept 26  |
