@@ -1,5 +1,7 @@
 # CMSC216
 
+Here is a smple footnote[^1]. With some additional text after it.
+
 ## CLass Links
 - [ELMS link](https://umd.instructure.com/courses/1335801)
 - [Class Page](https://www.cs.umd.edu/class/fall2022/cmsc216/)
@@ -10,3 +12,4 @@
 |-----------|-------------|
 | project 1 | sept 20, 26 |
 
+[^1]: My reference.i
