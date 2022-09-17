@@ -3,6 +3,7 @@
 Here is a smple footnote[^1]. With some additional text[^2] after it.
 
 ## CLass Links
+- <a href="https://umd.instructure.com/courses/1335801" target="_blank">ELMS Link</a>
 - [ELMS link](https://umd.instructure.com/courses/1335801)
 - [Class Page](https://www.cs.umd.edu/class/fall2022/cmsc216/)
 - [Pizza](https://piazza.com/class/l6y9bpb3m0u2m5/post/228)
