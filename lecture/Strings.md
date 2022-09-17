@@ -1,7 +1,7 @@
-# TODO list
- - [ ] 
- - [ ] 
- - [ ] 
+### TODO list
+- [x] 
+- [ ] 
+- [ ] 
 
 # Strings
 
